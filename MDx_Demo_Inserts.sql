@@ -58,5 +58,3 @@ group by
 		,xr.StateCode
 		,xr.ZipCode
 		,xr.CountryCode
-		,xrs.FacilityUCM 
-		,xrs.FacilityUCM
